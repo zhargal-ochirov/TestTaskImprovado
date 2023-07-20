@@ -1,0 +1,16 @@
+2023-07-20 22:22:04,727 ERROR Invalid output file path: 
+Traceback (most recent call last):
+  File "Z:\pythonProject\vkApi\ApiVK.py", line 27, in <module>
+    open(file_path, "w").close()
+    ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: ''
+2023-07-20 22:44:46,118 INFO User id verification was successful
+2023-07-20 22:44:46,566 INFO Getting information about friends
+2023-07-20 22:44:46,572 INFO Generated a report about friends
+2023-07-20 22:48:18,582 INFO User id verification was successful
+2023-07-20 22:49:17,630 INFO User id verification was successful
+2023-07-20 22:49:18,053 INFO Getting information about friends
+2023-07-20 22:49:18,059 INFO Generated a report about friends
+2023-07-20 22:59:46,126 INFO User id verification was successful
+2023-07-20 22:59:46,501 INFO Getting information about friends
+2023-07-20 22:59:46,506 INFO Generated a report about friends
